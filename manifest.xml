@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ApplicationManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>GN.NetworkDrives.Agent.exe</Id>
+  <PathToDownload>https://download.kukolos.com/network-drives/NetworkDrives.Agent.exe</PathToDownload>
+  <Signature>R/8GBYrzSUSWBLbR336xnCx8YmV2cGaUwO2ZraxziG3v8Fm5zc+mNH6BDNaeRSpEKVL9U8033FoYmUSiWqRQdQ==</Signature>
+  <Hash>E36E3B20AEED2E26CCCE6619C5FC86234D876D396FD13EB54D441607E6DFCC89</Hash>
+</ApplicationManifest>
